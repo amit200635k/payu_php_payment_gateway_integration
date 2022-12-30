@@ -1,8 +1,11 @@
 # payu_php_payment_gateway_integration
 
 Simplest Way to Integrate Payu Money Payment Gateway
+
 Login to Payu Account.
+
 Submit All the mandatory sections in onboarding.
+
 Get the Merchant Key , Salt for Hashing.
 
 We are using Web Checkout Flows -> PayU Hosted Checkout integration
