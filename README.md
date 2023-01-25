@@ -6,6 +6,8 @@ Login to Payu Account.
 
 Submit All the mandatory sections in onboarding.
 
+On submission of liveurl, payu will provide actual Meky & Salt. Otherwise Demo key & Salt is there.
+
 Get the Merchant Key , Salt for Hashing.
 
 We are using Web Checkout Flows -> PayU Hosted Checkout integration
